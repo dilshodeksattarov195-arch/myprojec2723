@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authualculate",
+        "uuid": 16000348,
+        "checksum": "ok87n"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
